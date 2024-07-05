@@ -1,0 +1,121 @@
+start testing cubic-cubic
+--------- 0ms delay, 0% packet loss-------------
+HTTP 1.1 : 0.8234006666666667 seconds
+HTTP 2 : 0.08096166666666665 seconds
+HTTP 3 : 0.516155 seconds
+--------- 10ms delay, 0% packet loss-------------
+HTTP 1.1 : 0.20699766666666666 seconds
+HTTP 2 : 0.20084 seconds
+HTTP 3 : 1.8389006666666667 seconds
+--------- 20ms delay, 0% packet loss-------------
+HTTP 1.1 : 0.3405086666666666 seconds
+HTTP 2 : 0.33262166666666665 seconds
+HTTP 3 : 3.383264666666667 seconds
+--------- 30ms delay, 0% packet loss-------------
+HTTP 1.1 : 0.5113553333333333 seconds
+HTTP 2 : 0.42838166666666666 seconds
+HTTP 3 : 4.945937333333333 seconds
+--------- 50ms delay, 0% packet loss-------------
+HTTP 1.1 : 0.728478 seconds
+HTTP 2 : 0.7401936666666667 seconds
+HTTP 3 : 8.026111333333334 seconds
+--------- 100ms delay, 0% packet loss-------------
+HTTP 1.1 : 1.3491119999999999 seconds
+HTTP 2 : 1.3501576666666668 seconds
+HTTP 3 : 15.714045666666669 seconds
+--------- 0ms delay, 2% packet loss-------------
+HTTP 1.1 : 0.2756803333333333 seconds
+HTTP 2 : 0.20149633333333336 seconds
+HTTP 3 : 0.6994713333333333 seconds
+--------- 10ms delay, 2% packet loss-------------
+HTTP 1.1 : 3.3140743333333336 seconds
+HTTP 2 : 5.50714 seconds
+HTTP 3 : 1.8644143333333332 seconds
+--------- 20ms delay, 2% packet loss-------------
+HTTP 1.1 : 14.77438 seconds
+HTTP 2 : 12.987257666666666 seconds
+HTTP 3 : 3.4682383333333333 seconds
+--------- 30ms delay, 2% packet loss-------------
+HTTP 1.1 : 21.384466000000003 seconds
+HTTP 2 : 18.443723666666667 seconds
+HTTP 3 : 5.315366666666667 seconds
+--------- 50ms delay, 2% packet loss-------------
+HTTP 1.1 : 33.71788266666667 seconds
+HTTP 2 : 32.965416999999995 seconds
+HTTP 3 : 8.489751666666665 seconds
+--------- 100ms delay, 2% packet loss-------------
+HTTP 1.1 : 62.62691133333334 seconds
+HTTP 2 : 59.21460833333333 seconds
+HTTP 3 : 16.498707333333332 seconds
+--------- 0ms delay, 6% packet loss-------------
+HTTP 1.1 : 7.8557999999999995 seconds
+HTTP 2 : 10.252967666666667 seconds
+HTTP 3 : 0.6467003333333333 seconds
+--------- 10ms delay, 6% packet loss-------------
+HTTP 1.1 : 17.981348333333333 seconds
+HTTP 2 : 17.619187333333333 seconds
+HTTP 3 : 2.283569 seconds
+--------- 20ms delay, 6% packet loss-------------
+HTTP 1.1 : 33.58876433333333 seconds
+HTTP 2 : 32.140188 seconds
+HTTP 3 : 12.764616333333331 seconds
+--------- 30ms delay, 6% packet loss-------------
+HTTP 1.1 : 43.54179966666667 seconds
+HTTP 2 : 43.21597333333333 seconds
+HTTP 3 : 19.18181433333333 seconds
+--------- 50ms delay, 6% packet loss-------------
+HTTP 1.1 : 74.15961433333332 seconds
+HTTP 2 : 75.26359066666667 seconds
+HTTP 3 : 29.352271000000002 seconds
+--------- 100ms delay, 6% packet loss-------------
+HTTP 1.1 : 137.91764833333335 seconds
+HTTP 2 : 138.54528333333334 seconds
+HTTP 3 : 18.031380666666667 seconds
+--------- 0ms delay, 8% packet loss-------------
+HTTP 1.1 : 15.95939066666667 seconds
+HTTP 2 : 8.904926666666666 seconds
+HTTP 3 : 0.25803966666666667 seconds
+--------- 10ms delay, 8% packet loss-------------
+HTTP 1.1 : 24.040081999999998 seconds
+HTTP 2 : 24.849885333333333 seconds
+HTTP 3 : 2.2516890000000003 seconds
+--------- 20ms delay, 8% packet loss-------------
+HTTP 1.1 : 38.329714333333335 seconds
+HTTP 2 : 40.71567366666667 seconds
+HTTP 3 : 4.1554899999999995 seconds
+--------- 30ms delay, 8% packet loss-------------
+HTTP 1.1 : 61.18618033333334 seconds
+HTTP 2 : 55.91525366666667 seconds
+HTTP 3 : 5.9436013333333335 seconds
+--------- 50ms delay, 8% packet loss-------------
+HTTP 1.1 : 88.546586 seconds
+HTTP 2 : 89.58363733333333 seconds
+HTTP 3 : 9.683027333333333 seconds
+--------- 100ms delay, 8% packet loss-------------
+HTTP 1.1 : 179.24119533333337 seconds
+HTTP 2 : 169.77206 seconds
+HTTP 3 : 74.97650066666667 seconds
+--------- 0ms delay, 12% packet loss-------------
+HTTP 1.1 : 32.954968 seconds
+HTTP 2 : 29.254266666666666 seconds
+HTTP 3 : 0.222971 seconds
+--------- 10ms delay, 12% packet loss-------------
+HTTP 1.1 : 43.51454733333333 seconds
+HTTP 2 : 39.485225 seconds
+HTTP 3 : 2.6226949999999998 seconds
+--------- 20ms delay, 12% packet loss-------------
+HTTP 1.1 : 64.86617833333334 seconds
+HTTP 2 : 62.66245633333333 seconds
+HTTP 3 : 4.803688 seconds
+--------- 30ms delay, 12% packet loss-------------
+HTTP 1.1 : 85.30913333333334 seconds
+HTTP 2 : 92.36375166666666 seconds
+HTTP 3 : 7.201208 seconds
+--------- 50ms delay, 12% packet loss-------------
+HTTP 1.1 : 137.38952433333336 seconds
+HTTP 2 : 142.62869566666666 seconds
+HTTP 3 : 50.67671733333333 seconds
+--------- 100ms delay, 12% packet loss-------------
+HTTP 1.1 : 254.38612266666667 seconds
+HTTP 2 : 251.13975066666669 seconds
+HTTP 3 : 22.60646 seconds

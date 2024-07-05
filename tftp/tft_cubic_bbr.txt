@@ -1,0 +1,31 @@
+start testing cubic-bbr
+--------- 0ms delay, 0% packet loss-------------
+TFTP : 4.355412 seconds
+--------- 10ms delay, 0% packet loss-------------
+TFTP : 87.191488 seconds
+--------- 20ms delay, 0% packet loss-------------
+TFTP : 164.890924 seconds
+--------- 30ms delay, 0% packet loss-------------
+TFTP : 241.843042 seconds
+--------- 40ms delay, 0% packet loss-------------
+TFTP : 323.507945 seconds
+--------- 0ms delay, 2% packet loss-------------
+TFTP : 903.331764 seconds
+--------- 10ms delay, 2% packet loss-------------
+TFTP : 1147.063248 seconds
+--------- 20ms delay, 2% packet loss-------------
+TFTP : 1182.880948 seconds
+--------- 30ms delay, 2% packet loss-------------
+TFTP : 1230.180784 seconds
+--------- 40ms delay, 2% packet loss-------------
+TFTP : 1132.320736 seconds
+--------- 0ms delay, 6% packet loss-------------
+TFTP : 3427.928844 seconds
+--------- 10ms delay, 6% packet loss-------------
+TFTP : 3152.536792 seconds
+--------- 20ms delay, 6% packet loss-------------
+TFTP : 3338.672706 seconds
+--------- 30ms delay, 6% packet loss-------------
+TFTP : 3565.665686 seconds
+--------- 40ms delay, 6% packet loss-------------
+TFTP : 3553.123284 seconds
