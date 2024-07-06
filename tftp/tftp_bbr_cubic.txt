@@ -1,18 +1,17 @@
 --------- 0ms delay, 0% packet loss-------------
-TFTP : 5.257875 seconds
+TFTP : 8.725747 seconds
 --------- 10ms delay, 0% packet loss-------------
-TFTP : 91.621256 seconds
+TFTP : 92.687879 seconds
 --------- 20ms delay, 0% packet loss-------------
-TFTP : 169.842401 seconds
+TFTP : 171.07403 seconds
+--------- 30ms delay, 0% packet loss-------------
+TFTP : 247.971558 seconds
 --------- 0ms delay, 2% packet loss-------------
-TFTP : 932.357158 seconds
+TFTP : 933.760167 seconds
 --------- 10ms delay, 2% packet loss-------------
-TFTP : 1028.281758 seconds
+TFTP : 1213.442866 seconds
 --------- 20ms delay, 2% packet loss-------------
-TFTP : 1202.018841 seconds
+TFTP : 1061.718619 seconds
+--------- 30ms delay, 2% packet loss-------------
+TFTP : 1199.910892 seconds
 --------- 0ms delay, 6% packet loss-------------
-TFTP : 3072.326654 seconds
---------- 10ms delay, 6% packet loss-------------
-TFTP : 3056.174974 seconds
---------- 20ms delay, 6% packet loss-------------
-TFTP : 3494.439914 seconds
