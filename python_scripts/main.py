@@ -33,7 +33,7 @@ for packet_loss in packet_losses:
         for version in versions:
             total_time = 0.0
             for _ in range(3):
-                proc = subprocess.run([f"./curl -w '%{{time_total}}' --http{version} -o /dev/null --insecure -s {url_base}"], stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
+                proc = subprocess.run([f"./curl -w '%{time_total}}' --http{version} -o /dev/null --insecure -s {url_base}"], stdout=subprocess.PIPE, stderr=subprocess.PIPE, shell=True)
                 time_taken = float(proc.stdout.strip())
                 total_time += time_taken
 
